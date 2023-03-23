@@ -51,6 +51,7 @@ function App() {
               <Button variant="dark" as={Link} to='/Logout'>Salir</Button>
               <Button variant="dark" as={Link} to='/Registro'>Registro</Button>
               <Button variant="dark" as={Link} to='/Login_faceboock'>Face</Button>
+              <Button variant="dark" href="https://github.com/abt2207/lopez_jueves_9.git">GITHUB</Button>
             </center>
           </Route>
 
